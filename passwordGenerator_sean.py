@@ -4,7 +4,7 @@
 
 import random
 
-#letters = 'QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm1234567890!@#$%^*&()_+=-{}][":\|;?><,./~`'
+letters = 'QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm1234567890!@#$%^*&()_+=-{}][":\|;?><,./~`'
 
 password = ' '
 
